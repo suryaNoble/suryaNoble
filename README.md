@@ -6,6 +6,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryaNoble&theme=radical)
 
 
+## 🐍 Watch my contribution graph get eaten by a snake!
+
+![snake gif](https://github.com/suryaNoble/suryaNoble/blob/output/github-snake.svg)
+
+
+
+
 <!--
 **suryaNoble/suryaNoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
