@@ -8,7 +8,8 @@
 
 ## 🐍 Watch my contribution graph get eaten by a snake!
 
-![snake gif](https://github.com/suryaNoble/suryaNoble/blob/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/suryaNoble/suryaNoble/output/github-snake.svg)
+
 
 
 
