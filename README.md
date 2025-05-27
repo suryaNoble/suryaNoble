@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi, I'm Surya Manikanta 👋
 
+A passionate MERN Stack Developer, Always learning, building, and pushing code to make an impact! 🚀
 ## 🚀 My Tech Stack
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
