@@ -1,4 +1,14 @@
 ## Hi there 👋
+
+## 🚀 My Tech Stack
+
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
+![Open to Work](https://img.shields.io/badge/Open--to--Internships-Yes-brightgreen)
+![IIIT Srikakulam](https://img.shields.io/badge/Student-RGUKT--SKLM-yellow)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-surya--manikanta-blue)](https://www.linkedin.com/in/surya-manikanta)
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaNoble&show_icons=true&theme=radical)
