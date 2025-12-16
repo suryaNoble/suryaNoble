@@ -4,7 +4,6 @@ A passionate MERN Stack Developer, Always learning, building, and pushing code t
 ## 🚀 My Tech Stack
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green)
-![Open to Work](https://img.shields.io/badge/Open--to--Internships-Yes-brightgreen)
 ![IIIT Srikakulam](https://img.shields.io/badge/Student-RGUKT--SKLM-yellow)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-surya--manikanta-blue)](https://www.linkedin.com/in/surya-manikanta)
